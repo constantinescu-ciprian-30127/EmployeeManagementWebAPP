@@ -1,6 +1,7 @@
-Aplicatia Web ofera o interfata grafica realizata folosind limbajul de programare HTML, la care se adauga elemente de grafica personalizate folosind clase predefinite din framework-ul Bootstrap.
+Aplicatia Web ofera o interfata grafica realizata folosind limbajul de programare HTML, la care se adauga elemente de grafica personalizate 
+folosind clase predefinite din framework-ul Bootstrap.
 Pagina de register ii permite utilizatorului sa se inregistreze completand urmatoarele date:
- ![image](https://github.com/constantinescu-ciprian-30127/EmployeeManagementWebAPP/assets/92230508/c53716e8-3d98-4f3f-bc84-61d26da1e583)
+![image](https://github.com/constantinescu-ciprian-30127/EmployeeManagementWebAPP/assets/92230508/c53716e8-3d98-4f3f-bc84-61d26da1e583)
 
 
 Dupa inregistrare, acesta se poate autentifica utilizand email-ul si parola. Home page-ul ii permite acestuia sa isi schimbe parola, sau sa isi modifice datele furnizate la inregistrarea in aplicatie. 
